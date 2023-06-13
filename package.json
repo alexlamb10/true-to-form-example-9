@@ -19,6 +19,8 @@
     "@angular/platform-browser": "^16.0.0",
     "@angular/platform-browser-dynamic": "^16.0.0",
     "@angular/router": "^16.0.0",
+    "@ngneat/until-destroy": "^9.2.2",
+    "ngx-reactive-forms-utils": "^2.0.0",
     "postcss": "^8.4.23",
     "rxjs": "^7.8.1",
     "tailwindcss": "^3.3.2",
